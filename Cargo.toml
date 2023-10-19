@@ -1,0 +1,13 @@
+[package]
+name = "alet"
+version = "1.0"
+edition = "2021"
+description = "Simple and stright-forward random generator (wrapper to rand crate) - Inpired by the Python's random module"
+lisence="MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8.5"
+
+
